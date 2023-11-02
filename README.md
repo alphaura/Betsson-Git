@@ -12,6 +12,7 @@ This project is a replication of the Betsson.es homepage using HTML, CSS, and Ja
 - [Menu Section](#menu-section)
   - [Mobile](#mobile)
   - [Desktop](#desktop)
+- [Login Popup](#login)
 - [Hero Section](#hero-section)
 - [Registration Steps](#registration-steps)
 - [Promotions Section](#promotions-section)
@@ -59,6 +60,10 @@ This is the github repo should it be needed https://github.com/alphaura/Betsson-
 ### Desktop
 
     On desktop on the other hand, you have the mobile's bottom menu features including the "Blog" page in the top menu alongside the FAQ's, login and register buttons.
+
+## Login Popup
+
+    When the "Log In" or "Entrar" button in the top menu section is clicked, a login popup will appear, prompting users to enter their credentials to log in. Additionally, the login popup features an error message when the internal log in button is clicked, that reads "Error: Action cannot be completed, no server found." This message serves as a reminder that this is a replicated homepage with limited functionality.
 
 ## Hero Section
 
