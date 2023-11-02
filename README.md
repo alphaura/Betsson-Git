@@ -65,6 +65,8 @@ This is the github repo should it be needed https://github.com/alphaura/Betsson-
 
     When the "Log In" or "Entrar" button in the top menu section is clicked, a login popup will appear, prompting users to enter their credentials to log in. Additionally, the login popup features an error message when the internal log in button is clicked, that reads "Error: Action cannot be completed, no server found." This message serves as a reminder that this is a replicated homepage with limited functionality.
 
+    The log in popup is also responsive depending on the device size.
+
 ## Hero Section
 
     In the hero section, I have used the overflow method while giving the images a 100% width, so that they take the full width of the page since they are their to promote features of the site. The CTA button changes from desktop to mobile size, to keep it inline with good design.
